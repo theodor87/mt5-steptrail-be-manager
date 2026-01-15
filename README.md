@@ -30,3 +30,12 @@ Designed for systematic and prop-firm style trading where:
 ## Author
 Teodor Dujin  
 Forex & Crypto Trader | Trading Operations | Risk & Execution Automation
+
+## Screenshots
+
+### EA Inputs (Step Trailing & Break-Even Logic)
+![EA Inputs](ea_settings.png)
+
+### StepTrail BE Manager Logo
+![Logo](logo_steptraill.png)
+
